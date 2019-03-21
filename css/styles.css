@@ -1,4 +1,14 @@
-.myClass img  {
-  width: 95px;
+#title {
+  text-align: center;
+  background-image: url("../img/smash.jpg");
+  /*background-color: #9F33FF;*/
+  color: white;
+  text-shadow: 2px 2px 3px black, 0 0 1em black, 0 0 0.2em black;
 
+}
+
+.thumbnail {
+
+  margin: 0px;
+  padding: 0px;
 }
